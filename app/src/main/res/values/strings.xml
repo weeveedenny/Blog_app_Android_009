@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Decagon Android 009 SimpleBlogApp</string>
+    <string name="id">Id</string>
+    <string name="title">title</string>
+    <string name="body">body</string>
+    <string name="bodyOfComment">I will sing ans sing and sing and I will sing ans sing and sing and I will sing ans sing and sing and I will sing ans sing and sing and I will sing ans sing and sing and I will sing ans sing and sing and I will sing ans sing and sing and I will sing ans sing and sing and I will sing ans sing and sing and I will sing ans sing and sing and I will sing ans sing and sing and I will sing ans sing and sing and </string>
+    <string name="name">Name</string>
+    <string name="userid">UserId</string>
+    <string name="add_a_comment">Add a comment</string>
+    <string name="posts">General Posts</string>
+    <string name="add_new_comment">Add New Comment ...</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="make_new_post">Make new Post</string>
+    <string name="Post_news">Post News</string>
+    <string name="Add_a_post">Add a Post</string>
+</resources>
